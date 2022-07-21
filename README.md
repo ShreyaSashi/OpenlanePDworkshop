@@ -97,4 +97,8 @@ Command to run spice on this netlist
 ![43](https://user-images.githubusercontent.com/108127167/180278422-af80e513-04d0-48b6-ba44-761a5062e431.PNG)
 Simulation output
 ![44](https://user-images.githubusercontent.com/108127167/180278472-706f5a82-cf4b-4309-ac08-10dfbc40596b.PNG)
+# DRC
 
+
+![45](https://user-images.githubusercontent.com/108127167/180279177-fe26df9d-8a17-4128-a3fb-67be61948a63.PNG)
+![46](https://user-images.githubusercontent.com/108127167/180279182-08dd62bc-53fd-486d-b87d-bd156d8969f5.PNG)
